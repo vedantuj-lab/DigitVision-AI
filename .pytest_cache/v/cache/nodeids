@@ -1,0 +1,15 @@
+[
+  "tests/test_backend.py::test_health_endpoint",
+  "tests/test_backend.py::test_model_info_endpoint",
+  "tests/test_backend.py::test_predict_empty_image",
+  "tests/test_backend.py::test_predict_invalid_base64",
+  "tests/test_backend.py::test_predict_missing_payload",
+  "tests/test_backend.py::test_predict_valid_digit",
+  "tests/test_preprocessing.py::test_aspect_ratio_preservation_and_sizing",
+  "tests/test_preprocessing.py::test_corrupt_bytes_raises_invalid_image",
+  "tests/test_preprocessing.py::test_dark_on_light_polarity_normalization",
+  "tests/test_preprocessing.py::test_empty_bytes_raises_invalid_image",
+  "tests/test_preprocessing.py::test_empty_canvas_raises_empty_image_error",
+  "tests/test_preprocessing.py::test_light_on_dark_polarity_preservation",
+  "tests/test_preprocessing.py::test_tensor_normalization_range"
+]

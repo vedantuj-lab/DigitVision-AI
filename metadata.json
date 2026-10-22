@@ -1,0 +1,6 @@
+{
+  "name": "DigitVision AI",
+  "description": "Turn Handwritten Digits into Digital Intelligence with a real trained Convolutional Neural Network (CNN) on MNIST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
